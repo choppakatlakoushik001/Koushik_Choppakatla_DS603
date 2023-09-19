@@ -88,3 +88,10 @@ These phases help turn a big jumble of data into something valuable and useful, 
 **Cost:** Handling Big Data can be expensive. It's like having to buy lots of ingredients for a big feast. Storing, processing, and managing all that data can strain budgets.
 
 These challenges show why Big Data analysis can be tricky, but with the right tools and strategies, you can overcome them and enjoy the benefits of valuable insights.
+
+
+## Sources
+
+* Botelho, B., & Bigelow, S. J. (2022). big data. Data Management. https://www.techtarget.com/searchdatamanagement/definition/big-data
+* Big Data Defined: Examples and Benefits | Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/learn/what-is-big-data
+* Schroer, A. (n.d.). What is big data? How does big data work? Built In. https://builtin.com/big-data
